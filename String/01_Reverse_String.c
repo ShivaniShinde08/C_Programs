@@ -20,6 +20,7 @@ int main()
 
     printf("\n\t Reverse String Is %s",Cdst);
 
+    printf("\n\t Thank You..."); 
     getch();
     return 0;
 }
