@@ -13,6 +13,8 @@ int main()
   Sum = No1 + No2;
   
   printf("\n\t Addition Of %d & %d  Is => %d",No1,No2,Sum);
+   
+  printf("\n\t Thank You...!") ;
   
   getch();
   return 0;
