@@ -20,6 +20,8 @@ int main()
   
     printf("\n\t Subtraction Of %d & %d => %d",No1,No2,Sub);
   
+    printf ("\n\t Thank You...") ;
+
   getch();
   return 0;
 }
