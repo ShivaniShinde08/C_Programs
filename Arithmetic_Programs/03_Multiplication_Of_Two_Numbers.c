@@ -14,6 +14,7 @@ int main()
   
   printf("\n\t Multiplication Of %d & %d Is => %d",No1,No2,Mul);
   
+  printf("\n\t Thank You...!");
   getch();
   return 0;
 }
